@@ -1,1 +1,12 @@
 ничем.
+commit a3be41053e4c0ab9b764e648b2750687c0b2bc98 (HEAD -> master, origin/master, origin/HEAD)
+meaw
+
+commit f719f3b95467525c9389f8c5a04495d7786b3a07
+Merge remote-tracking branch 'origin/hat'
+
+commit f3c9fc966f02020fbad3143acce922e6e7c103bb (origin/boots_buttons, boots_buttons)
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+commit bfc5af9bac165b475ed035f3052bc6777b44cb17
+Merge remote-tracking branch 'origin/boots' into boots_buttons
